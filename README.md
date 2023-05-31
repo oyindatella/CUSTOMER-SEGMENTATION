@@ -1,5 +1,7 @@
 # CUSTOMER-SEGMENTATION
 Creating customer segments for a financial services firm using K-means Algorithm.
+
+
 A variety of products, including mutual funds and exchange traded funds, are available for investors in the equities and bond markets from ABC,
 a relatively young provider of financial services. 
 The financial services sector is predicted to develop significantly, at a compound annual growth rate of 20%, according to market research 
